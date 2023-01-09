@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+header h1 {
+    text-align:center;
+    font-size:40px;
+    color:orangered;
+    background-color:rgb(221, 213, 213);
+}
+a:hover{
+   
+  color: green;
+  text-decoration: none;
+}
